@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foodappdelivery-dev-d3d71-authRole",
+      "UnauthRoleArn": "arn:aws:iam::021891602453:role/amplify-foodappdelivery-dev-d3d71-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::021891602453:role/amplify-foodappdelivery-dev-d3d71-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-foodappdelivery-dev-d3d71-deployment",
+      "UnauthRoleName": "amplify-foodappdelivery-dev-d3d71-unauthRole",
+      "StackName": "amplify-foodappdelivery-dev-d3d71",
+      "StackId": "arn:aws:cloudformation:us-east-1:021891602453:stack/amplify-foodappdelivery-dev-d3d71/ae630fe0-ae27-11ef-a81b-12fe3650d367",
+      "AmplifyAppId": "d3e6ljh10vy63f"
+    },
+    "categories": {
+      "auth": {
+        "foodappdeliveryfaba730f": {}
+      }
+    }
+  }
+}
